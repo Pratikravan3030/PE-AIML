@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Workout Expert System</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🏋️ Workout Expert System</h1>
+        <form id="workoutForm">
+            <label>Fitness Goal:</label>
+            <select id="goal">
+                <option value="muscle gain">Muscle Gain</option>
+                <option value="fat loss">Fat Loss</option>
+                <option value="strength">Strength</option>
+            </select>
+
+            <label>Experience Level:</label>
+            <select id="level">
+                <option value="beginner">Beginner</option>
+                <option value="intermediate">Intermediate</option>
+                <option value="advanced">Advanced</option>
+            </select>
+
+            <label>Equipment:</label>
+            <select id="equipment">
+                <option value="home">Home</option>
+                <option value="gym">Gym</option>
+            </select>
+
+            <button type="submit">Get Workout Plan</button>
+        </form>
+
+        <div id="result"></div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

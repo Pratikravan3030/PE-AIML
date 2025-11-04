@@ -1,0 +1,218 @@
+[
+  {
+    "goal": "muscle gain",
+    "level": "beginner",
+    "equipment": "home",
+    "recommendation": [
+      "Push-Ups",
+      "Bodyweight Squats",
+      "Lunges",
+      "Plank",
+      "Dumbbell Bicep Curls (if available)"
+    ]
+  },
+  {
+    "goal": "muscle gain",
+    "level": "beginner",
+    "equipment": "gym",
+    "recommendation": [
+      "Bench Press",
+      "Leg Press",
+      "Lat Pulldown",
+      "Cable Rows",
+      "Dumbbell Shoulder Press"
+    ]
+  },
+  {
+    "goal": "muscle gain",
+    "level": "intermediate",
+    "equipment": "home",
+    "recommendation": [
+      "Incline Push-Ups",
+      "Bulgarian Split Squats",
+      "Chair Dips",
+      "Plank with Shoulder Tap",
+      "Resistance Band Rows"
+    ]
+  },
+  {
+    "goal": "muscle gain",
+    "level": "intermediate",
+    "equipment": "gym",
+    "recommendation": [
+      "Barbell Squat",
+      "Bench Press",
+      "Deadlift",
+      "Seated Shoulder Press",
+      "Dumbbell Flyes"
+    ]
+  },
+  {
+    "goal": "muscle gain",
+    "level": "advanced",
+    "equipment": "home",
+    "recommendation": [
+      "One-Arm Push-Up",
+      "Pistol Squat",
+      "Handstand Push-Up",
+      "Plank to Push-Up",
+      "Jump Squats"
+    ]
+  },
+  {
+    "goal": "muscle gain",
+    "level": "advanced",
+    "equipment": "gym",
+    "recommendation": [
+      "Barbell Bench Press (Heavy)",
+      "Deadlift",
+      "Front Squat",
+      "Barbell Row",
+      "Overhead Press"
+    ]
+  },
+  {
+    "goal": "fat loss",
+    "level": "beginner",
+    "equipment": "home",
+    "recommendation": [
+      "Jumping Jacks",
+      "Mountain Climbers",
+      "High Knees",
+      "Plank",
+      "Bodyweight Squats"
+    ]
+  },
+  {
+    "goal": "fat loss",
+    "level": "beginner",
+    "equipment": "gym",
+    "recommendation": [
+      "Treadmill Jog",
+      "Elliptical Trainer",
+      "Cable Woodchopper",
+      "Incline Walking",
+      "Medicine Ball Slam"
+    ]
+  },
+  {
+    "goal": "fat loss",
+    "level": "intermediate",
+    "equipment": "home",
+    "recommendation": [
+      "Burpees",
+      "Jump Squats",
+      "Plank to Push-Up",
+      "Skipping",
+      "Core Crunches"
+    ]
+  },
+  {
+    "goal": "fat loss",
+    "level": "intermediate",
+    "equipment": "gym",
+    "recommendation": [
+      "HIIT on Treadmill (Sprints)",
+      "Battle Ropes",
+      "Box Jumps",
+      "Kettlebell Swings",
+      "Rowing Machine"
+    ]
+  },
+  {
+    "goal": "fat loss",
+    "level": "advanced",
+    "equipment": "home",
+    "recommendation": [
+      "HIIT Circuit (Burpees + Jump Lunges + Push-Ups)",
+      "Handstand Hold",
+      "Squat Jumps",
+      "Plank Variations",
+      "Tuck Jumps"
+    ]
+  },
+  {
+    "goal": "fat loss",
+    "level": "advanced",
+    "equipment": "gym",
+    "recommendation": [
+      "Treadmill Sprints",
+      "Battle Rope Waves",
+      "Plyometric Box Drills",
+      "Kettlebell Clean & Press",
+      "Assault Bike Intervals"
+    ]
+  },
+  {
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "home",
+    "recommendation": [
+      "Push-Ups (3 sets of 10)",
+      "Bodyweight Squats (3 sets of 15)",
+      "Glute Bridge",
+      "Wall Sit",
+      "Plank Hold"
+    ]
+  },
+  {
+    "goal": "strength",
+    "level": "beginner",
+    "equipment": "gym",
+    "recommendation": [
+      "Goblet Squat",
+      "Leg Press",
+      "Lat Pulldown",
+      "Machine Chest Press",
+      "Seated Row"
+    ]
+  },
+  {
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "home",
+    "recommendation": [
+      "Weighted Push-Ups (using backpack)",
+      "Bulgarian Split Squat",
+      "Chair Dips",
+      "Side Plank",
+      "Wall Handstand Hold"
+    ]
+  },
+  {
+    "goal": "strength",
+    "level": "intermediate",
+    "equipment": "gym",
+    "recommendation": [
+      "Deadlift",
+      "Front Squat",
+      "Overhead Press",
+      "Bench Press",
+      "Weighted Pull-Ups"
+    ]
+  },
+  {
+    "goal": "strength",
+    "level": "advanced",
+    "equipment": "home",
+    "recommendation": [
+      "One-Arm Push-Up",
+      "Pistol Squat",
+      "Handstand Push-Up",
+      "Core Dragon Flag",
+      "Burpee to Pull-Up (if bar available)"
+    ]
+  },
+  {
+    "goal": "strength",
+    "level": "advanced",
+    "equipment": "gym",
+    "recommendation": [
+      "Barbell Deadlift (Heavy)",
+      "Squat (90% 1RM)",
+      "Bench Press (Heavy)",
+      "Overhead Barbell Press",
+      "Weighted Chin-Ups"
+    ]
+  }
+]
